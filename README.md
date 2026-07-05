@@ -4,7 +4,7 @@
 
 <br/>
 
-<img align="right" src="INGA_UNGA_IMAGE_LINK_PASTE_PANNUNGA" width="220" style="border-radius: 10px; margin-left: 20px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);" alt="Bharath K" />
+<img align="right" src="https://res.cloudinary.com/dnby5o1lt/image/upload/v1753957805/bharath_profisnal_pic_inutoj.png" width="220" height="220" style="border-radius: 50%; margin-left: 20px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); object-fit: cover;" alt="Bharath K" />
 
 I am a Full Stack Developer specializing in the MERN stack, Next.js, and cloud deployments (AWS). With a strong foundation in problem-solving and AI-driven automation workflows, I build scalable, high-performance web applications and integrated hardware solutions.
 
@@ -64,8 +64,8 @@ An autonomous AI agent that automatically generates personalized learning paths 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bharath9360&show_icons=true&theme=radical" alt="Bharath's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharath9360&layout=compact&theme=radical" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bharath9360&show_icons=true&theme=radical" alt="Bharath's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharath9360&theme=radical" alt="Top Languages" height="165" />
 </p>
 
 ### 📬 Connect with me
