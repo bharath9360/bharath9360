@@ -31,6 +31,8 @@ I'm a **Full Stack Developer** specializing in the **MERN stack, Next.js, and cl
 
 <br clear="right"/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 ## 🛠️ Tech Arsenal
 
 <p align="left">
@@ -46,64 +48,104 @@ I'm a **Full Stack Developer** specializing in the **MERN stack, Next.js, and cl
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 ## 📂 Featured Projects
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=2196F3&height=60&section=header&text=Advanced%20CRM%2FHRMS%20System&fontSize=24&fontColor=2196F3&animation=twinkling&fontAlignY=75" width="100%" />
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="65%" valign="top">
 
-### 🏢 [Advanced CRM/HRMS System](https://crm-hrms.vercel.app/)
-Comprehensive management system to handle customer relations and human resources efficiently.
+🏢 Comprehensive management system built to handle customer relations and human resources efficiently — role-based dashboards, attendance, and payroll modules.
 
 `MongoDB` `Express.js` `React` `Node.js`
 
-</td>
-<td width="50%" valign="top">
-
-### 🎓 [Alumni Connect Platform](https://alumni-connection-frontend.vercel.app/)
-Full-stack networking platform for alumni with a powerful admin dashboard for bulk imports and analytics.
-
-`MERN` `AWS` `Antigravity`
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-2196F3?style=for-the-badge&logo=vercel&logoColor=white)](https://crm-hrms.vercel.app/)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fcrm-hrms.vercel.app%2F&up_message=online&down_message=offline&style=for-the-badge)
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
+</table>
 
-### 📺 [Happy Star Satellite Vision](https://happystarsatellitevision.netlify.app/)
-Production-level billing & subscription management system for cable TV operations with complex transaction handling.
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=6DA55F&height=60&section=header&text=Alumni%20Connect%20Platform&fontSize=24&fontColor=6DA55F&animation=twinkling&fontAlignY=75" width="100%" />
+
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
+
+🎓 Full-stack networking platform for alumni to share opportunities and stay updated, with a powerful admin dashboard for bulk imports and analytics.
+
+`MERN` `AWS` `Antigravity`
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-6DA55F?style=for-the-badge&logo=vercel&logoColor=white)](https://alumni-connection-frontend.vercel.app/)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Falumni-connection-frontend.vercel.app%2F&up_message=online&down_message=offline&style=for-the-badge)
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=FF9900&height=60&section=header&text=Happy%20Star%20Satellite%20Vision&fontSize=24&fontColor=FF9900&animation=twinkling&fontAlignY=75" width="100%" />
+
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
+
+📺 Production-level billing and subscription management system for cable TV operations, capable of handling complex transaction management.
 
 `Next.js` `Supabase` `PostgreSQL`
 
-</td>
-<td width="50%" valign="top">
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF9900?style=for-the-badge&logo=netlify&logoColor=white)](https://happystarsatellitevision.netlify.app/)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fhappystarsatellitevision.netlify.app%2F&up_message=online&down_message=offline&style=for-the-badge)
 
-### ✈️ Pakka Tourism
-Modern, production-level tourism agency website with high-performance UI and secure backend.
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=8E75B2&height=60&section=header&text=Pakka%20Tourism&fontSize=24&fontColor=8E75B2&animation=twinkling&fontAlignY=75" width="100%" />
+
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
+
+✈️ Modern, production-level tourism agency website featuring high-performance UI and secure backend operations.
 
 `Next.js` `Firebase`
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
+</table>
 
-### 👓 BsmartGlass (AuraVision 2.0)
-AI-powered assistive system connecting visually impaired users with remote guides via smart-glass video, navigation, and wearable hardware.
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=412991&height=60&section=header&text=BsmartGlass%20(AuraVision%202.0)&fontSize=24&fontColor=412991&animation=twinkling&fontAlignY=75" width="100%" />
+
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
+
+👓 AI-powered assistive system connecting visually impaired users with remote guides via smart-glass video, navigation software, and wearable hardware.
 
 `MERN` `WebRTC` `OpenAI API` `Raspberry Pi Zero 2 W`
 
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
 
-### 🧠 AI-Powered Learning Path Generator
-Autonomous AI agent generating personalized learning paths using LLMs and advanced orchestration.
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=EA4B71&height=60&section=header&text=AI-Powered%20Learning%20Path%20Generator&fontSize=24&fontColor=EA4B71&animation=twinkling&fontAlignY=75" width="100%" />
+
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
+
+🧠 Autonomous AI agent that automatically generates personalized learning paths using LLMs and advanced orchestration tools.
 
 `Python` `LangGraph` `Google Generative AI`
 
 </td>
 </tr>
 </table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 📊 GitHub Analytics
 
@@ -121,15 +163,7 @@ Autonomous AI agent generating personalized learning paths using LLMs and advanc
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bharath9360&theme=radical&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies" />
-</p>
-
-<!--
-  🐍 Contribution snake animation — enable via GitHub Actions in this repo:
-  https://github.com/Platane/snk to auto-generate the SVG below on a schedule.
--->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bharath9360/bharath9360/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="450">
 </p>
 
 ## 📬 Let's Connect
