@@ -1,4 +1,10 @@
-# Hi there, I'm Bharath K 👋
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Bharath+K+👋;Full+Stack+Developer;MERN+&+Next.js+Specialist;AI+Automation+Enthusiast" alt="Typing SVG" /></a>
+</div>
+
+<br/>
+
+<img align="right" src="INGA_UNGA_IMAGE_LINK_PASTE_PANNUNGA" width="220" style="border-radius: 10px; margin-left: 20px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);" alt="Bharath K" />
 
 I am a Full Stack Developer specializing in the MERN stack, Next.js, and cloud deployments (AWS). With a strong foundation in problem-solving and AI-driven automation workflows, I build scalable, high-performance web applications and integrated hardware solutions.
 
@@ -10,14 +16,18 @@ I am a Full Stack Developer specializing in the MERN stack, Next.js, and cloud d
 * 📟 Integrating hardware and sensory data (**Raspberry Pi, Computer Vision**) for real-world tech solutions.
 
 ### 🛠️ Tech Stack
-**Frontend:**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Backend, Cloud & Databases:**  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-**AI & Automation:**  
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6D5W?style=for-the-badge&logo=n8n&logoColor=white) ![Make](https://img.shields.io/badge/Make.com-000000?style=for-the-badge&logo=make&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Make.com-000000?style=for-the-badge&logo=make&logoColor=white" />
+</p>
 
 ### 📂 Featured Projects
 
@@ -42,25 +52,24 @@ A modern, production-level tourism agency website featuring high-performance UI 
 
 #### 5. 👓 BsmartGlass (AuraVision 2.0)
 An AI-powered assistive system connecting visually impaired users with remote guides via smart-glass video, navigation software, and wearable hardware.
-* **Tech Stack:** MERN, WebRTC, OpenAI API, Raspberry Pi Zero 2 W, Sensory Inputs
+* **Tech Stack:** MERN, WebRTC, OpenAI API, Raspberry Pi Zero 2 W
 
 #### 6. 🧠 AI-Powered Learning Path Generator
 An autonomous AI agent that automatically generates personalized learning paths using LLMs and advanced orchestration tools.
-* **Tech Stack:** Python, LangGraph, Google Generative AI, Custom API Integrations
+* **Tech Stack:** Python, LangGraph, Google Generative AI
 
-### 💼 Experience
-* **Full Stack Developer Intern @ IISPPR** (Dec 2025 - Feb 2026): Developed a healthcare web application integrating REST APIs, JWT authentication, live video, and secure payment workflows.
-* **Software Engineer Intern @ Bluestock Fintech** (Aug 2025 - Sep 2025): Built real-time trading dashboards handling live financial data.
+### 📈 GitHub Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bharath9360&bg_color=0d1117&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true" alt="Bharath's Activity Graph" />
+</p>
 
-### 🏆 Achievements
-* **Problem Solving:** Solved **200+ Data Structures and Algorithms** problems on NxtWave.
-* **Hackathons:** Participated in India's largest Gen AI Buildathon.
-* **Competitions:** 1st prize - Full Stack Development Contest (MAMCET, 2023) | Runner-up - National Code Debugging (KRCE, 2024).
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bharath9360&show_icons=true&theme=radical" alt="Bharath's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharath9360&layout=compact&theme=radical" alt="Top Languages" height="150" />
+</p>
 
 ### 📬 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bharathk22) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kbharath.ccbp.tech)
-
----
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bharath9360&show_icons=true&theme=radical" alt="Bharath's GitHub stats" />
+<a href="https://linkedin.com/in/bharathk22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharathk22" height="30" width="40" /></a>
+<a href="https://kbharath.ccbp.tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leedcode.svg" alt="portfolio" height="30" width="40" /></a>
 </p>
